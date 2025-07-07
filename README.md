@@ -5,13 +5,14 @@
   <a href="https://github.com/mohamedalswaify?tab=followers">
     <img src="https://img.shields.io/github/followers/mohamedalswaify?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/mohamedalswaify">
-    <img src="https://img.shields.io/github/stars/mohamedalswaify?label=Star&style=social" alt="GitHub Stars" />
+  <a href="https://github.com/mohamedalswaify/mohamedalswaify">
+    <img src="https://img.shields.io/github/stars/mohamedalswaify/mohamedalswaify?label=Star&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/mohamedalswaify">
-    <img src="https://img.shields.io/github/forks/mohamedalswaify?label=Fork&style=social" alt="GitHub Forks" />
+  <a href="https://github.com/mohamedalswaify/mohamedalswaify/fork">
+    <img src="https://img.shields.io/github/forks/mohamedalswaify/mohamedalswaify?label=Fork&style=social" alt="GitHub Forks" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-alswaify-b80412199" target="_blank">
