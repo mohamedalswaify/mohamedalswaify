@@ -2,6 +2,18 @@
 <h3 align="center">Full Stack .NET Web Developer | Technical Trainer | Software Engineer</h3>
 
 <p align="center">
+  <a href="https://github.com/mohamedalswaify?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohamedalswaify?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/mohamedalswaify">
+    <img src="https://img.shields.io/github/stars/mohamedalswaify?label=Star&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/mohamedalswaify">
+    <img src="https://img.shields.io/github/forks/mohamedalswaify?label=Fork&style=social" alt="GitHub Forks" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-alswaify-b80412199" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -76,7 +88,7 @@ I am a **Full Stack .NET Web Developer** with extensive experience in both **sof
 
 ---
 
-## 📈 Languages Usage
+## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalswaify&layout=compact&theme=tokyonight" />
