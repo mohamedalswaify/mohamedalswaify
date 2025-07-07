@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack .NET Web Developer | Technical Trainer | Software Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamedalswaify" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-alswaify-b80412199" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://wa.me/966564842804" target="_blank">
