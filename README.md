@@ -24,7 +24,7 @@
   <a href="https://mohamed-alswaify.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser" />
   </a>
-  <a href="mailto:m.alswaify@gmail.com" target="_blank">
+  <a href="mailto:mohamedgamal1455@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
