@@ -90,8 +90,9 @@ I am a **Full Stack Web & Mobile Developer** with extensive experience in both *
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Most Used Languages on GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalswaify&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalswaify&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
+
