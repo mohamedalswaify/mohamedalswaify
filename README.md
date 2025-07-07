@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alswaify</h1>
-<h3 align="center">Full Stack Web & Mobile Developer | .NET & Flutter | Technical Trainer | Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF55&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Web+Developer;Flutter+Mobile+App+Developer;Technical+Trainer+%7C+Clean+Coder;I+Build+Real+World+Web+%26+Mobile+Systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/mohamedalswaify?tab=followers">
